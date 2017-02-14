@@ -39,7 +39,6 @@ div#controls div#preview div#local-media {
   bottom:50px;
   left:150px;
   z-index:10;
-  margin:-100px 0px 0px 150px;
 }
 
 div#controls div#preview div#local-media video {
